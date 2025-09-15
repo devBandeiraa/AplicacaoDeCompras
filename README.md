@@ -1,4 +1,4 @@
-# Aplicaçãao De Compras
+# Aplicação De Compras
 
 Aplicativo de compras desenvolvido em Java, com foco em organização e gestão de itens de compras.
 
